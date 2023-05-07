@@ -1,0 +1,51 @@
+﻿[
+  {
+    "Id": "60d22222a",
+    "Name": "Adidas Quick Force Indoor Badminton Shoes",
+    "Description": "Designed for professional as well as amateur badminton players. These indoor shoes are crafted with synthetic upper that provides natural fit.",
+    "Price": 3500,
+    "ImageFile": "images/products/adidas_shoe-1.png",
+    "Summary": "Adidas Quick Force Indoor Badminton Shoes",
+    "Types": {
+      "Id": "abcde123abcda",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "abcde123abcde",
+      "Name": "Adidas"
+    }
+  },
+
+  {
+    "Id": "60d22222b",
+    "Name": "Adidas Quick Force Indoor Badminton Shoes",
+    "Description": "Designed for professional as well as amateur badminton players. These indoor shoes are crafted with synthetic upper that provides natural fit.",
+    "Price": 3375,
+    "ImageFile": "images/products/adidas_shoe-2.png",
+    "Summary": "Adidas Quick Force Indoor Badminton Shoes",
+    "Types": {
+      "Id": "abcde123abcda",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "abcde123abcde",
+      "Name": "Adidas"
+    }
+  },
+  {
+    "Id": "60d22222c",
+    "Name": "Adidas Quick Force Indoor Badminton Shoes",
+    "Description": "Designed for professional as well as amateur badminton players. These indoor shoes are crafted with synthetic upper that provides natural fit.",
+    "Price": 3375,
+    "ImageFile": "images/products/adidas_shoe-3.png",
+    "Summary": "Adidas Quick Force Indoor Badminton Shoes",
+    "Types": {
+      "Id": "abcde123abcda",
+      "Name": "Shoes"
+    },
+    "Brands": {
+      "Id": "abcde123abcde",
+      "Name": "Adidas"
+    }
+  }
+]
